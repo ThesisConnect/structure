@@ -1,0 +1,19 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typegoose/typegoose": "^11.4.1",
+    "@types/uuid": "^9.0.2",
+    "mongoose": "^7.4.2",
+    "typescript": "^5.1.6",
+    "uuid": "^9.0.0"
+  }
+}
