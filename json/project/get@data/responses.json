@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "project_id": "fd87a1d0-659e-48bd-9e74-8ddbaf55dedb",
+      "found": true,
+      "name": "Project Topic A",
+      "progress": 65,
+      "status": {
+        "id": 1,
+        "name": "Proposal",
+        "order": 1
+      }
+    },
+    {
+      "project_id": "05747f17-7a74-40ea-974e-2a95c4c8c850",
+      "found": false,
+      "name": "",
+      "progress": 0,
+      "status": {
+        "id": 0,
+        "name": "",
+        "order": 0
+      }
+    }
+  ]
+}

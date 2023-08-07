@@ -1,0 +1,11 @@
+{
+  "project_id": "fd87a1d0-659e-48bd-9e74-8ddbaf55dedb",
+  "name": "Project Topic A",
+  "advisors": [
+    "4a693fc0-e0e7-401d-9e27-761a9053e503"
+  ],
+  "advisee": [
+    "c8a4f6be-9fe8-4b3c-a691-69f7ce2875c9",
+    "0ae89a5c-e904-488c-8a03-50adebe136a2"
+  ]
+}
